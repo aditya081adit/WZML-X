@@ -6,7 +6,6 @@ apscheduler
 aria2p
 asyncio
 beautifulsoup4
-bot
 cinemagoer
 cloudscraper
 cryptography
@@ -34,6 +33,7 @@ pymongo
 pyrogram==2.0.106
 python-dotenv
 python-magic
+python-telegram-bot
 pytz
 qbittorrent-api
 requests
